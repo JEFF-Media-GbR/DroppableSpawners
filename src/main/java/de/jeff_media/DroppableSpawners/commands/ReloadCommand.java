@@ -1,7 +1,7 @@
-package de.jeff_media.PluginName.commands;
+package de.jeff_media.DroppableSpawners.commands;
 
-import de.jeff_media.PluginName.Main;
-import de.jeff_media.PluginName.Permissions;
+import de.jeff_media.DroppableSpawners.Main;
+import de.jeff_media.DroppableSpawners.Permissions;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
